@@ -6,7 +6,7 @@ To run the application simply clone the repository, open in Visual Studio and pr
 
 Instruction will be printed in the console once the application is run, and additional help can be found by inputting `help` as a command in the console while the application is running. 
 
-❕*NOTE* Expression results have been rounded to the nearest 4 decimal places for brevity ❕
+❕*NOTE*: Expression results have been rounded to the nearest 4 decimal places for brevity ❕
 
 *Optional*
 
